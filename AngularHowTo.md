@@ -4,6 +4,6 @@ Con este How to minimo iniciamos un proyecto en blanco para publicar.
  - Instalar Angular (npm -g install @angular/cli)
  - Creamos el projecto (ng new NameProject --routing=false --style=css)
  - Copiamos el contenido de esa carpeta al git y luego trabajamos normalmente
- - Inicio el proyecto (ng build --prod --output-path docs --base-href https://alsjava.github.io/)
+ - Inicio el proyecto (ng build --prod --output-path docs --base-href https://alsjava.github.io/AlsJavaWeb/)
  - Luego solo ejecutamos (ng build --prod)
 
