@@ -11,3 +11,6 @@ Port oficial de la página de AlsJava.
 
 # Licensia
  - Por definir
+
+# Deploy
+Si trabajamos en otra web, el resultado de la rama la ponemos en docs, donde será la web vigente siendo la rama master el deploy principal.
