@@ -10,3 +10,4 @@ Con este How to minimo iniciamos un proyecto en blanco para publicar.
 # Notas
 Si no se usan dominio custom le hacemos esto
  - Inicio el proyecto (ng build --prod --output-path docs --base-href https://alsjava.github.io/AlsJavaWeb/)
+ - El compilado debe hacerse deploy en la rama master, sin mesclar para mantener la rama.
