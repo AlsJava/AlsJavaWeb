@@ -14,3 +14,9 @@ Port oficial de la página de AlsJava.
 
 # Deploy
 Si trabajamos en otra web, el resultado de la rama la ponemos en docs, donde será la web vigente siendo la rama master el deploy principal.
+
+# Templates
+ - https://templated.co/projection
+ - https://templated.co/fullmotion
+ - https://templated.co/concerted
+ - https://html5up.net/halcyonic
